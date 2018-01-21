@@ -6,3 +6,6 @@ After training this model, it is able to detect the captcha with accuracy of 99.
 <br>
 # Motivation
 Deep Learning for Computer Vision with Python by Adrian Rosebrock. (Found here: https://www.kickstarter.com/projects/adrianrosebrock/deep-learning-for-computer-vision-with-python-eboo) where the author showed how he bypassed the CAPTCHA on the New York website using machine learning.
+
+# Code
+Code can not be shared
