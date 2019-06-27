@@ -7,5 +7,14 @@ After training this model, it is able to detect the captcha with accuracy of 99.
 # Motivation
 Deep Learning for Computer Vision with Python by Adrian Rosebrock. (Found here: https://www.kickstarter.com/projects/adrianrosebrock/deep-learning-for-computer-vision-with-python-eboo) where the author showed how he bypassed the CAPTCHA on the New York website using machine learning.
 
-# Code
-Code can not be shared
+
+# How to Run 
+—————————$ python main.py——————————————
+It will:
+1. Extract single letters from CAPTCHA images
+2. The results will be stored in the "letter_images" folder.
+3. The neural network will be train to recognize single letters and the result will write in “captcha_model.hdf5" and "model_labels.dat"
+
+Now,
+Run solve.py to solve CAPTCHA
+$ python solve.py
