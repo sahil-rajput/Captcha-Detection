@@ -9,7 +9,8 @@ Deep Learning for Computer Vision with Python by Adrian Rosebrock. (Found here: 
 
 
 # How to Run 
-—————————$ python main.py——————————————
+
+    $ python main.py
 It will:
 1. Extract single letters from CAPTCHA images
 2. The results will be stored in the "letter_images" folder.
@@ -17,4 +18,5 @@ It will:
 
 Now,
 Run solve.py to solve CAPTCHA
-$ python solve.py
+      
+    $ python solve.py
